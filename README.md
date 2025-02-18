@@ -1,4 +1,4 @@
-This is the data analysis code for the social hierarchy sensory modality paper.
+These are the datasets and accompanying data analysis code for the __"Dominance rank inference in mice via chemosensation"__ paper by Borak, Wai, Rodriguez Villamayor, Claxton & Kohl (2025).
 
 # Setup
 1. Clone this repository, cd into the repo and setup the conda environment:\
