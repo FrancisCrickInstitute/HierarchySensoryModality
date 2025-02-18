@@ -1,0 +1,133 @@
+Observation id,C00578098_sub_TT_defeated,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,,,,,,,
+,,,,,,,,
+Observation date,2021-10-04 14:53:04,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+sex,Female,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+60.439,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+76.937,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+76.937,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,START
+77.625,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+78.550,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+78.750,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+79.575,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+80.500,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+84.900,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+84.925,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+85.900,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+85.925,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+88.100,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+88.250,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+88.575,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+93.025,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+93.400,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+93.800,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+94.450,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+96.425,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+99.425,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+99.425,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,STOP
+105.400,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+112.451,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+119.380,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+124.701,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+124.701,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,START
+125.750,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+126.925,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+128.550,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+129.050,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+129.075,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+129.400,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+129.425,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+129.825,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+135.975,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+140.675,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+145.525,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+148.000,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+148.025,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+148.575,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+152.600,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+153.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+153.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+153.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,STOP
+164.027,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+178.321,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+198.301,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+198.301,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,START
+199.550,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+199.850,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+213.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+214.550,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+215.400,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+228.725,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+230.500,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+232.750,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+233.625,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+237.300,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+237.300,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,STOP
+237.826,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+256.101,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+264.626,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+273.451,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+273.451,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,START
+282.450,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+283.200,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+297.275,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+298.175,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+298.350,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+310.450,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+310.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+311.600,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+314.950,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+315.975,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+345.175,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+347.450,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+349.025,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+349.275,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+349.300,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+350.875,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+351.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+351.900,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+351.925,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+354.125,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+354.125,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+354.125,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,STOP
+364.125,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+383.615,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+398.626,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP
+398.626,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,START
+406.925,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+411.900,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+413.150,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+413.975,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+426.275,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+427.700,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+437.500,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+443.925,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+444.225,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+445.650,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+448.300,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+449.350,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+453.300,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,START
+454.150,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,resist,,,STOP
+454.150,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+455.775,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+456.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+457.625,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+484.600,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,START
+488.475,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,push,,,STOP
+491.900,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,START
+494.275,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,START
+494.275,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,retreat,,,STOP
+494.275,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,tube test,,,STOP
+499.875,C:/Users/caom/Documents/Data/C00578098C_sub_TT_Inscopix_Top_2021-09-21T16_11_35.avi,499.900,40.0,,invalid,,,STOP

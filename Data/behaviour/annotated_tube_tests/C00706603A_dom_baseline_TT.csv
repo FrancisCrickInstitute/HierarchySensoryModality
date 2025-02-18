@@ -1,0 +1,58 @@
+Observation id,C00706603A_dom_baseline_TT,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,,,,,,,
+,,,,,,,,
+Observation date,2023-08-21 16:52:05,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+21.950,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,START
+22.600,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,first contact,,,POINT
+29.500,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,START
+31.050,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,STOP
+31.350,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,resist,,,START
+33.025,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,resist,,,STOP
+33.025,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,START
+37.900,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,STOP
+37.900,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,STOP
+63.775,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,START
+64.750,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,first contact,,,POINT
+87.450,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,START
+88.975,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,STOP
+89.675,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,START
+92.525,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,STOP
+92.525,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,STOP
+135.425,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,START
+135.950,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,first contact,,,POINT
+202.425,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,START
+203.075,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,STOP
+204.125,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,START
+205.350,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,STOP
+205.350,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,START
+207.300,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,STOP
+208.525,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,START
+209.425,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,push,,,STOP
+210.375,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,START
+215.075,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,STOP
+215.075,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,STOP
+240.500,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,START
+241.750,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,first contact,,,POINT
+310.350,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,START
+312.150,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,STOP
+320.500,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,START
+327.750,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,retreat,,,STOP
+327.750,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,STOP
+373.275,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,START
+374.325,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,first contact,,,POINT
+388.825,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,STOP
+426.450,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,START
+426.950,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,first contact,,,POINT
+514.100,D:/Neven/Behaviour videos/C00706603A_dom_baseline_TT_Inscopix_Top2023-08-14T15_32_28.avi,516.130,40.0,,tube test,,,STOP

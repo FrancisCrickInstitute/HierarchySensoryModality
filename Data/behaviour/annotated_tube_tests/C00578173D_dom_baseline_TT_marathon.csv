@@ -1,0 +1,68 @@
+Observation id,C00578173D_dom_baseline_TT_marathon,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,,,,,,,
+,,,,,,,,
+Observation date,2022-02-15 11:10:08,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+37.780,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank1,intruder enter,,,POINT
+37.780,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank1,tube test,,,START
+38.625,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank1,sniff,,,START
+40.100,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank1,sniff,,,STOP
+109.475,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank1,retreat,,,START
+111.950,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank1,retreat,,,STOP
+111.950,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank1,tube test,,,STOP
+137.952,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank4,intruder enter,,,POINT
+137.952,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank4,tube test,,,START
+148.800,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank4,sniff,,,START
+149.050,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank4,push,,,START
+149.050,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank4,sniff,,,STOP
+149.600,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank4,push,,,STOP
+156.179,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank4,tube test,,,STOP
+182.602,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank2,intruder enter,,,POINT
+182.602,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank2,tube test,,,START
+183.325,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank2,sniff,,,START
+183.725,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank2,sniff,,,STOP
+201.825,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank2,push,,,START
+205.850,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank2,push,,,STOP
+206.975,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank2,tube test,,,STOP
+233.052,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank3,intruder enter,,,POINT
+233.052,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank3,tube test,,,START
+256.782,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage1_rank3,tube test,,,STOP
+300.060,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank4,intruder enter,,,POINT
+300.060,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank4,tube test,,,START
+303.125,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank4,sniff,,,START
+304.900,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank4,sniff,,,STOP
+317.500,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank4,push,,,START
+322.103,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank4,push,,,STOP
+322.103,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank4,tube test,,,STOP
+364.202,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank2,intruder enter,,,POINT
+364.202,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank2,tube test,,,START
+364.800,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank2,sniff,,,START
+365.975,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank2,sniff,,,STOP
+405.638,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank2,push,,,START
+412.525,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank2,push,,,STOP
+412.525,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank2,tube test,,,STOP
+442.981,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank3,intruder enter,,,POINT
+442.981,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank3,tube test,,,START
+445.750,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank3,sniff,,,START
+446.325,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank3,sniff,,,STOP
+467.600,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank3,retreat,,,START
+469.527,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank3,retreat,,,STOP
+469.527,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank3,tube test,,,STOP
+500.455,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank1,intruder enter,,,POINT
+500.455,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank1,tube test,,,START
+505.375,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank1,sniff,,,START
+510.700,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank1,sniff,,,STOP
+521.575,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank1,retreat,,,START
+523.455,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank1,retreat,,,STOP
+523.455,D:/Neven/Behaviour videos/C00578173D_dom_baseline_TT_marathon_Inscopix_Top_2022-02-14T18_19_59.avi,1303.480,40.0,cage2_rank1,tube test,,,STOP

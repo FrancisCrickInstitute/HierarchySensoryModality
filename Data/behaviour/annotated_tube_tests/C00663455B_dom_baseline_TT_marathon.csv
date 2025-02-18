@@ -1,0 +1,168 @@
+Observation id,C00663455B_dom_baseline_TT_marathon,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,,,,,,,
+,,,,,,,,
+Observation date,2022-08-05 12:46:44,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+88.800,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+90.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+90.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+92.975,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+93.125,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+95.825,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+95.825,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+148.100,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+151.350,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+160.100,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+161.175,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+162.800,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+163.175,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+163.175,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,START
+167.250,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,STOP
+167.250,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+214.075,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+220.825,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+223.450,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+226.900,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+226.900,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+276.075,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+276.525,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+276.700,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+277.575,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+286.075,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+321.425,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+323.950,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+331.075,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+336.925,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+336.925,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+337.325,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+337.325,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+338.150,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+338.150,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+338.625,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+340.375,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+342.750,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+342.750,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+349.800,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+349.800,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+393.975,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+395.675,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+403.200,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+408.375,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+425.950,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+430.300,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+430.300,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,START
+432.225,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+432.225,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,STOP
+433.325,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+434.350,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,START
+435.925,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,STOP
+435.925,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+469.250,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+472.400,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+486.700,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+518.975,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+521.525,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+541.375,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+550.000,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+580.575,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+584.425,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+587.525,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+590.375,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+590.375,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+635.425,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+640.100,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+674.500,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+723.150,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+726.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+739.175,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+781.075,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+783.775,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+809.950,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+810.850,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+849.300,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+887.775,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+889.575,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+910.650,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+921.775,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+922.950,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+924.500,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+932.525,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+973.000,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+985.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1000.725,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+1002.000,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+1004.650,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1031.975,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1033.875,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1081.725,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+1091.350,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+1140.975,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1194.275,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1199.575,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1201.325,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+1203.175,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+1216.575,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1254.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1256.325,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1268.725,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1296.025,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1298.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1304.425,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+1305.950,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+1308.275,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+1312.225,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+1338.000,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1378.450,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1381.625,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1453.350,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1516.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1520.025,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1542.850,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1571.425,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1580.850,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1623.050,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1664.700,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1667.850,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1676.200,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+1678.375,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+1709.400,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1742.750,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1748.375,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1748.650,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+1749.775,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+1755.425,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+1788.000,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+1797.300,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+1830.675,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+1851.050,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+1875.150,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+1891.150,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+1990.225,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,START
+1991.675,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,retreat,,,STOP
+1994.225,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+1995.625,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+1998.925,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,START
+2003.600,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,push,,,STOP
+2006.175,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP
+2042.275,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,START
+2044.575,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,first contact,,,POINT
+2089.475,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+2099.125,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+2101.275,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+2110.025,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+2111.300,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+2114.325,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+2141.225,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,START
+2141.950,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,resist,,,STOP
+2224.825,Z:/data/instruments/Inscopix_setup/Neven/Behaviour/C00663455/C00663455B_dom_baseline_TT_marathon_Inscopix_Top2022-08-04T14_13_58.avi,2250.980,40.0,,tube test,,,STOP

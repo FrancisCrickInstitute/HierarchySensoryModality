@@ -1,0 +1,151 @@
+Observation id,C00578173C_sub_baseline_TT,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,,,,,,,
+,,,,,,,,
+Observation date,2022-01-04 16:16:13,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+sex,Female,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+76.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+87.013,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+87.013,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,START
+88.000,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+88.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+88.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+93.275,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+93.275,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+94.575,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+94.725,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+97.425,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+97.425,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+98.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+98.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+99.225,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+99.225,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+99.925,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+99.925,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+102.275,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+102.275,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+104.700,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+104.700,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+107.750,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+107.750,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+110.350,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+110.350,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+110.350,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,STOP
+121.501,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+143.703,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+156.725,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+156.725,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,START
+158.600,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+159.075,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+159.075,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+159.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+159.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+159.925,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+166.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+167.100,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+167.575,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+168.600,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+168.750,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+169.450,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+169.450,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+169.975,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+169.975,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+170.850,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+170.850,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+175.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+175.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+176.000,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+176.275,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+176.875,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+177.225,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+177.950,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+177.950,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,STOP
+179.075,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+182.601,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+197.301,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+202.401,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+202.401,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,START
+209.575,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+209.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+209.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+216.625,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+222.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+222.750,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+226.525,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+226.725,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+227.250,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+229.450,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+229.450,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+229.825,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+229.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+230.775,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+230.800,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+232.175,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+232.400,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+233.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+233.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+233.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,STOP
+236.800,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,START
+237.100,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+237.325,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+239.800,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+239.800,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+240.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+240.675,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,STOP
+241.189,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+246.238,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+257.113,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,START
+264.880,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,invalid,,,STOP
+264.880,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,START
+271.175,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+271.725,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+271.725,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+274.650,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+274.650,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+275.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+275.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+276.225,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+276.525,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+276.875,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+277.200,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+277.875,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+278.450,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+283.000,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+283.000,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+284.250,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+284.875,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+285.400,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+288.650,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+289.000,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+291.500,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+292.500,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+292.500,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+292.875,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+292.875,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+295.775,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+295.775,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+297.175,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+297.375,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+297.825,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+301.825,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,START
+302.300,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,push,,,STOP
+302.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+308.050,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+308.050,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+308.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,START
+308.900,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+309.975,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,resist,,,STOP
+309.975,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,START
+311.150,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,retreat,,,STOP
+311.150,C:/Users/caom/OneDrive - The Francis Crick Institute/Documents/Data/C00578173C_sub_baseline_TT_Inscopix_Top_2021-12-18T15_13_39.avi,388.550,40.0,,tube test,,,STOP

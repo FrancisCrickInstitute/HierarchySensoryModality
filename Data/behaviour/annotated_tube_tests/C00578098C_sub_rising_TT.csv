@@ -1,0 +1,121 @@
+Observation id,C00578098_sub_TT_rising,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,,,,,,,
+,,,,,,,,
+Observation date,2021-10-01 15:35:16,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+sex,Female,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+65.117,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,START
+84.750,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,STOP
+84.750,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,START
+88.150,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+89.075,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+89.100,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+89.775,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+95.375,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+96.250,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+96.275,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+96.675,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+99.925,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+100.225,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+100.250,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+100.375,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+100.400,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+100.950,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+101.750,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+103.100,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+106.075,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+106.525,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+107.600,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+108.375,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+108.400,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+108.575,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+108.600,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+108.825,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+108.850,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+109.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+109.025,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+109.250,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+109.275,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+110.475,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+110.500,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+112.500,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+112.525,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+113.200,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+113.725,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+114.175,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+115.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+117.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+117.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,STOP
+158.025,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,START
+181.751,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,STOP
+206.850,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,START
+222.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+222.975,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+226.425,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+227.250,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+227.475,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+230.275,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+231.675,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+232.950,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+234.450,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+235.200,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+239.425,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+240.575,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+240.575,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+242.825,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+243.425,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+246.800,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+246.825,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,STOP
+246.850,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,START
+258.500,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,STOP
+298.453,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,START
+307.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,STOP
+307.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,START
+314.025,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+316.250,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+316.275,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+318.025,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+321.450,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+323.450,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+323.475,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+324.600,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+329.800,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+330.925,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+330.950,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+333.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+333.025,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+333.350,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+334.750,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+335.125,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+335.450,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+335.725,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+335.750,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+336.700,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,START
+336.700,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+337.225,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,push,,,STOP
+337.250,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,START
+338.225,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,resist,,,STOP
+338.250,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+339.425,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+339.425,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,STOP
+339.450,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,START
+351.650,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,STOP
+361.775,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,START
+377.850,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,STOP
+377.850,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,START
+390.700,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,START
+391.800,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,START
+391.800,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,retreat,,,STOP
+391.800,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,tube test,,,STOP
+417.000,C:/Users/caom/Documents/Data/C00578098_sub_TT_Inscopix_Top_2021-09-10T15_07_27.avi,417.050,40.0,,invalid,,,STOP

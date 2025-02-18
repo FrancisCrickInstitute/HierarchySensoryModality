@@ -1,0 +1,39 @@
+Observation id,C00542606_sub_TT,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,,,,,,,
+,,,,,,,,
+Observation date,2021-09-07 17:01:23,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+sex,Female,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+58.100,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,START
+59.267,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,START
+59.967,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,STOP
+60.300,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,START
+60.600,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,STOP
+68.100,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,STOP
+114.400,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,START
+119.600,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,resist,,,START
+121.367,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,resist,,,STOP
+127.400,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,START
+129.500,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,STOP
+129.500,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,STOP
+221.276,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,START
+234.733,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,START
+238.133,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,STOP
+238.133,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,STOP
+278.567,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,START
+287.100,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,retreat,,,START
+287.700,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,retreat,,,STOP
+299.667,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,START
+302.400,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,push,,,STOP
+302.400,C:/Users/caom/Documents/Data/C00542606_sub_TT_merged.mp4,411.650,30.0,,tube test,,,STOP

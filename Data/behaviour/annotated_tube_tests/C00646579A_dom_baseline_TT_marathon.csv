@@ -1,0 +1,384 @@
+Observation id,C00646579A_dom_baseline_TT_marathon,,,,,,,
+,,,,,,,,
+Media file(s),,,,,,,,
+,,,,,,,,
+Player #1,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,,,,,,,
+,,,,,,,,
+Observation date,2022-08-18 17:36:14,,,,,,,
+,,,,,,,,
+Description,,,,,,,,
+,,,,,,,,
+Time offset (s),0.000,,,,,,,
+,,,,,,,,
+independent variables,,,,,,,,
+variable,value,,,,,,,
+,,,,,,,,
+Time,Media file path,Total length,FPS,Subject,Behavior,Behavioral category,Comment,Status
+11.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+22.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+23.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+26.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+26.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+77.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+79.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+93.500,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+98.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+101.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+104.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+104.800,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+175.775,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+198.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+199.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+200.225,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+202.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+204.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+204.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+251.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+252.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+257.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+261.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+263.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+266.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+267.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+269.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+269.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+273.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+274.475,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+275.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+279.925,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+280.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+285.800,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+288.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+288.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+333.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+335.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+335.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+335.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+353.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+356.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+388.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+390.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+398.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+401.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+404.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+404.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+404.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+407.600,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+409.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+411.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+415.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+416.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+419.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+426.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+426.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+427.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+427.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+432.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+432.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+480.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+489.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+497.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+500.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+501.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+504.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+504.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+507.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+507.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+566.125,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+567.475,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+579.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+582.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+593.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+628.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+646.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+668.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+670.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+671.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+674.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+674.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+728.500,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+729.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+729.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+730.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+738.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+739.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+744.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+744.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+760.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+762.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+783.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+787.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+787.600,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+789.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+789.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+838.600,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+839.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+864.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+866.225,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+871.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+875.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+875.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+876.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+881.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+884.000,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+884.000,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+884.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+884.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+887.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+890.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+891.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+891.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+893.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+893.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+896.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+896.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+935.475,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+936.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+979.600,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+1032.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+1034.775,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+1035.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1036.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1045.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1046.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1060.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1061.500,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1061.500,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1063.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1063.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1063.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1063.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1071.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1071.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1073.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1073.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1082.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1082.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1083.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1091.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1094.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1094.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1095.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1102.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1109.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1109.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+1149.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+1149.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+1169.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+1171.500,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+1179.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1181.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1187.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1189.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1191.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1206.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1206.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1208.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1211.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1212.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1217.325,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1218.000,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1222.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1226.325,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1226.325,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+1262.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+1263.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+1263.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1264.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1282.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1285.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1309.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+1347.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+1348.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+1359.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1361.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1371.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+1407.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+1408.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+1415.775,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1417.125,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1469.125,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1472.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1489.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1492.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1492.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+1493.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1493.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+1496.800,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1496.800,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1500.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1500.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1502.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1505.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+1835.475,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+1837.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+1849.000,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1857.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1905.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1910.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1910.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1911.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+1966.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+1973.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+1973.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+1975.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+1975.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+1976.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2008.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2011.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2079.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2081.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2096.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2100.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2131.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2133.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2137.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2141.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2141.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+2194.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+2196.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+2201.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2202.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2202.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2204.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2204.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2205.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2205.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2205.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2205.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2206.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2206.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2206.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2207.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2208.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2208.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2208.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2208.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2210.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2212.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2215.000,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2215.000,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2215.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2215.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2217.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2217.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2221.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2227.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2228.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2228.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2234.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2234.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+2276.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+2277.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+2291.375,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2292.375,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2295.600,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2297.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2298.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2300.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2300.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2302.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2302.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2303.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2304.975,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2306.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2306.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2309.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2309.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2310.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2310.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2311.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2311.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2313.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2313.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+2361.375,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+2363.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+2406.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2408.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2408.800,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2412.475,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2412.475,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2413.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2413.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2414.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2414.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2415.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2418.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2419.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2419.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2420.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2420.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2422.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2422.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+2473.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+2478.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+2478.100,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2479.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2509.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2511.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2585.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+2621.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+2623.375,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+2687.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2688.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2719.950,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2721.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2721.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2721.925,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2723.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2726.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2726.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2730.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2734.625,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2735.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2735.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2736.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2738.225,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2739.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2739.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2741.075,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2745.600,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2750.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2750.900,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2754.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2757.800,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2759.350,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2762.700,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2765.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2765.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+2806.400,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+2808.025,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+2832.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,START
+2833.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2833.525,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,retreat,,,STOP
+2839.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2840.450,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2842.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2846.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2847.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2856.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2857.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2859.200,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2860.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2860.650,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
+2901.000,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,START
+2902.250,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,first contact,,,POINT
+2907.550,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2907.825,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2922.175,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2926.725,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2934.875,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2936.425,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2943.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2945.775,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2955.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,START
+2957.300,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,resist,,,STOP
+2972.050,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2975.675,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2982.925,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2983.575,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+2992.150,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+2996.275,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+3005.850,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,START
+3008.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,push,,,STOP
+3008.750,D:/Janice/behaviour_videos/C00646579/C00646579A_dom_baseline_TT_marathon_Inscopix_Top2022-08-18T16_00_33.avi,3024.380,40.0,,tube test,,,STOP
